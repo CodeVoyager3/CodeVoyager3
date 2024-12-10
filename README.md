@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on open source projects and coding challenges
 📫 How to reach me amriteshkumarrai14@gmail.com
 😄 Pronouns: he/him
-⚡ Fun fact: I never miss a Real Madrid match
+
 
 <!---
 CodeVoyager3/CodeVoyager3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
