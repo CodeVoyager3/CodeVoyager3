@@ -5,7 +5,7 @@ Hi, I'm Amritesh Kumar Rai
 🚀 Exploring C++, Web Development & Open Source
 📈 Always learning, building, and improving
 
-#🔧 Tech Stack
+#Tech Stack
 
 Languages: C, C++, Python
 
