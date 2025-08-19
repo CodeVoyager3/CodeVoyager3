@@ -1,9 +1,9 @@
 # Hi, I'm Amritesh Kumar Rai
 
--> B.Tech CSE @ Maharaja Agrasen Institute of Technology
--> Passionate about AIML, DSA & Development
--> Exploring C++, Web Development & Open Source
--> Always learning, building, and improving
+*B.Tech CSE @ Maharaja Agrasen Institute of Technology
+*Passionate about AIML, DSA & Development
+*Exploring C++, Web Development & Open Source
+*Always learning, building, and improving
 
 # Tech Stack
 
