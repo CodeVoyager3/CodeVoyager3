@@ -1,9 +1,27 @@
-👋 Hi, I’m @CodeVoyager3
-👀 I’m interested in web development, data science, and open source projects
-🌱 I’m currently learning Python & JavaScript
-💞️ I’m looking to collaborate on open source projects and coding challenges
-📫 How to reach me amriteshkumarrai14@gmail.com
-😄 Pronouns: he/him
+Hi, I'm Amritesh Kumar Rai
+
+🎓 B.Tech CSE @ Maharaja Agrasen Institute of Technology
+💻 Passionate about Coding, DSA & Development
+🚀 Exploring C++, Web Development & Open Source
+📈 Always learning, building, and improving
+
+#🔧 Tech Stack
+
+Languages: C, C++, Python
+
+Web: HTML, CSS, JavaScript, React
+
+Other: Git, GitHub, VS Code
+
+# What you’ll find here
+
+🔹 My DSA Practice (Striver’s A2Z, LeetCode, GFG, etc.)
+
+🔹 Personal Projects & Experiments
+
+🔹 Notes & resources I create while learning
+
+“Code. Build. Learn. Repeat.”
 
 
 <!---
