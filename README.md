@@ -1,11 +1,11 @@
-Hi, I'm Amritesh Kumar Rai
+# Hi, I'm Amritesh Kumar Rai
 
 🎓 B.Tech CSE @ Maharaja Agrasen Institute of Technology
 💻 Passionate about Coding, DSA & Development
 🚀 Exploring C++, Web Development & Open Source
 📈 Always learning, building, and improving
 
-#Tech Stack
+# Tech Stack
 
 Languages: C, C++, Python
 
