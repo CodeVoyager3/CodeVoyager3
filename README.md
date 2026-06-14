@@ -1,24 +1,136 @@
-# 💫 About Me:
-🔭 I’m currently working on interactive web apps like EigenPlot and AI-powered study tools Cluss.<br><br>🤝 I’m looking to collaborate on impactful Open Source projects and team up for hackathons!<br><br>🌱 I’m currently learning  Backend Development (Node.js/Express), Machine Learning and tackling Striver's A2Z DSA sheet.<br><br>💬 Ask me about winning hackathons, scoring Hacktoberfest Supercontributor, or building cool UI animations with Three.js & GSAP.<br><br>⚡ Fun fact: When I'm not debugging code, I'm probably cheering for Real Madrid or listening to Coldplay to fuel my coding sessions!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amritesh%20Kumar%20Rai&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20%7C%20ML%20%C2%B7%20Full%20Stack%20%C2%B7%20Open%20Source&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amritesh-dev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Amritesh37151) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amriteshkumarrai14@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeVoyager3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodeVoyager3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVoyager3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodeVoyager3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C6EF7&center=true&vCenter=true&width=600&lines=2nd-year+CSE+%40+MAIT%2C+GGSIPU+%E2%80%94+CGPA+8.74;Full+Stack+Intern+%40+PlotArmour+Studio;Building+EigenPlot+%7C+WebAssembly+%2B+WebGL;Hackathon+Finalist+%7C+1st+Place+Duality+AI;Hacktoberfest+2025+Supercontributor)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amritesh-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C6EF7?style=for-the-badge&logo=vercel&logoColor=white)](https://amritesh.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amriteshkumarrai14@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Amritesh37151)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodeVoyager3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## HacktoberFest 2025 :
-[![An image of @codevoyager3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codevoyager3)](https://holopin.io/@codevoyager3)
+## ⚡ At a Glance
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+ 🏆  1st Place — Duality Hackathon (Genesis × Duality AI × Google for Developers)
+ 🥇  Top 20 / 1500+ Teams — HackIndia Spark 6 @ NIT Delhi
+ 🧑‍💻  Full Stack Intern @ PlotArmour Studio — 40% API latency reduction
+ 🌍  Hacktoberfest 2025 Supercontributor — 10+ merged PRs
+```
+
+---
+
+## 🔨 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 📈 EigenPlot *(in progress)*
+A high-performance web graphing calculator for the AI era — bridging natural language and math. Renders explicit/implicit equations, vector fields, and real-time calculus visualizations at **60+ FPS** via a hybrid **C++ → WebAssembly** compute engine and **WebGL** fragment shaders.
+
+`Next.js 16` `React 19` `WebAssembly` `WebGL` `Prisma` `Neon PostgreSQL` `Clerk`
+
+</td>
+<td width="50%">
+
+### 🧠 Engineering Intelligence Hub
+A **Multimodal GraphRAG** system for codebase intelligence. AST-aware parsing with Tree-sitter, hybrid retrieval via Neo4j + MongoDB Atlas Vector Search, LLM-synthesized citation-backed answers.
+
+`FastAPI` `Tree-sitter` `Neo4j` `MongoDB` `LLMs`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+**Backend & ML**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Databases & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeVoyager3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6EF7&icon_color=7C6EF7&text_color=c9d1d9&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVoyager3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6EF7&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=CodeVoyager3&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C6EF7&ring=7C6EF7&fire=FF6B6B&currStreakLabel=7C6EF7" />
+
+</div>
+
+---
+
+## 🏆 Hackathon Record
+
+| 🏅 | Event | Result |
+|---|---|---|
+| 🥇 | Duality Hackathon — Genesis × Duality AI × Google for Developers | **1st Place** |
+| 🎯 | HackIndia Spark 6, NIT Delhi | **Top 20 / 1500+ Teams** |
+| 🥉 | Code Veda 2.0 — Geek Room @ ThoughtWorks Gurugram | **3rd Place** |
+| 🥈 | FOSS Forge 2025 — Team "Code Galacticos" | **2nd Place** |
+| 4️⃣ | Protex Hackathon — Protégé IGDTUW @ Microsoft Office, Noida | **4th / 2100+ Teams** |
+
+---
+
+<div align="center">
+
+[![Hacktoberfest Badges](https://holopin.me/codevoyager3)](https://holopin.io/@codevoyager3)
+
+*Hacktoberfest 2025 Supercontributor — 10+ merged PRs into global open-source repos*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
